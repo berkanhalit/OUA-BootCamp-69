@@ -28,7 +28,7 @@ Amaç oyunda yönetmiş olduğumuz slime karakterini evine ulaştırabilmektir. 
 
 # SPRINTLER
 
-## 1. VE 2. SPRINTDE TAKIM İÇİ İLETİŞİMSİZLİKTEN DOLAYI HİÇBİR ŞEY YAPILAMAMIŞTIR.
+* **1. VE 2. SPRINTDE TAKIM İÇİ İLETİŞİMSİZLİKTEN DOLAYI HİÇBİR ŞEY YAPILAMAMIŞTIR.**
 
 # 3.SPRINT
 
